@@ -1,0 +1,13 @@
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\Assembly-CSharp.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\UnityEditor.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\UnityEngine.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\Mono.Cecil.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\nunit.framework.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\Unity.DataContract.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+H:\Camera+Menu\Camera+Menu\FunTest\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+H:\Camera+Menu\Camera+Menu\FunTest\obj\Debug\ResolveAssemblyReference.cache
+H:\Camera+Menu\Camera+Menu\FunTest\obj\Debug\Assembly-CSharp.dll
+H:\Camera+Menu\Camera+Menu\FunTest\obj\Debug\Assembly-CSharp.pdb
